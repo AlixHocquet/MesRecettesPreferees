@@ -1,4 +1,4 @@
-## Brownies (Felix's reciepe)
+## Brownies (Felix's recipe)
 ![image](img/Brownies.jpg)
 
 ### Ingrédients
