@@ -2,14 +2,14 @@
 
 ### Ingrédients
 #### Pour 6 personnes 
-*15g de levure de boulanger
-*20cl d'eau tiède
-*200g de beurre demi sel mou
-*50g pour le moule
-*300g de farine
-*10g de beurre fondu
-*200g de sucre en poudre
-*50g pour le moule
+* 15g de levure de boulanger
+* 20cl d'eau tiède
+* 200g de beurre demi sel mou
+* 50g pour le moule
+* 300g de farine
+* 10g de beurre fondu
+* 200g de sucre en poudre
+* 50g pour le moule
 
 ### Préparation 
 1. Délayez la levure dana 20cl d'eau tiède. Laissez ramollir le beurre à température ambiante.
