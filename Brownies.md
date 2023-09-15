@@ -1,4 +1,5 @@
-## Felix's brownies 
+## Brownies (Felix's reciepe)
+![image](img/Brownies.jpg)
 
 ### Ingrédients
 * 115g de beurre
@@ -19,4 +20,4 @@
 2. Dans un premier bol, mélanger le beurre, le cacao en poudre, le sucre roux, le sucre en poudre, l'éxtrait de vanille, le café et les oeufs.
 3. Dans un deuxième bol, mélanger les farines, la levure et le sel.
 4. Ajouter le mélange de deuxième bol au premier. Mélanger délicatement puis ajouter le chocolat. 
-5. Mettre au four pendant 20 à 25min. 
+5. Étaler dans un plat et mettre au four pendant 20 à 25min. 
