@@ -1,4 +1,4 @@
-![image](img/cookies.jpg)
+![image](img/Cookies.jpg)
 ## Cookies aux pépites de chocolat
 
 ### Ingrédients 
