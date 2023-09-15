@@ -17,5 +17,5 @@
 1. Placer une grande feuille de papier sulfurisé sur la plaque du four. Avec une peptite cuillère, déposer des petites tas de pâte tous les 10cm. 
 1. Faire cuire à four chaud (200°C, th. 6) pendant 9min. Une fois cuits, les sortir du four et les laisser refroidir. Bonne dégustation ! 
 
-#### Astuce en plus
+### Astuce en plus
 Il est possible de remplasser les pépites de chocolat par des noix ou des raisins secs, ou même de tout mélanger selon les goûts !  
