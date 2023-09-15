@@ -1,4 +1,5 @@
 ## La tarte à la rhubarbe
+![image](img/Tarterhubarbe.jbg)
 
 ### Ingrédients
 #### Pour 6 personnes 
