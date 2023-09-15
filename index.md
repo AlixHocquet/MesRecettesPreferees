@@ -1,5 +1,5 @@
-# Voici quelques recettes faciles pour un bon goûter 
+# Voici quelques recettes faciles pour le goûter 
 
-* Cookies 
+* Cookies aux pépites de chocolat
 * Brownie
 
