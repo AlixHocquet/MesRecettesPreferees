@@ -1,6 +1,6 @@
 ## Le Kouign-Amann
 
-### Igrédients
+### Ingrédients
 #### Pour 6 personnes 
 *15g de levure de boulanger
 *20cl d'eau tiède
