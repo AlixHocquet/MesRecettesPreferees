@@ -1,4 +1,4 @@
-# Voici quelques recettes faciles pour le goûter 
+# Voici quelques recettes faciles à faire et délicieuses
 
 ![image](img/hq720.jpg)
 
