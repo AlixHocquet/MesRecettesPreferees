@@ -1,5 +1,5 @@
 ## Cookies de Neiman Marcus
-![image](mg/Cookies café choco.jpg))
+![image](img/Cookies café choco.jpg))
 
 ### Ingrédients 
 #### *Pour 20 cookies*
