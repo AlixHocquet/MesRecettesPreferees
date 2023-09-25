@@ -1,5 +1,7 @@
-### Ingrédients 
+## Cookies de Neiman Marcus
 ![image](img/Cookies café choco.jpg)
+
+### Ingrédients 
 #### *Pour 20 cookies*
 * 250g de chocolat (noir, lait, blanc ou un mélange)
 * 115g de beurre demi-sel mou
