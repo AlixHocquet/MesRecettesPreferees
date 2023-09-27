@@ -1,10 +1,10 @@
 # Cookies de Neiman Marcus
 ![image](img/Cookies 2.jpg)
 
-{
-background-color : red;
-## Ingrédients 
-}
+html {
+    background-color : red;
+## Ingrédients }
+
 ### *Pour 20 cookies*
 * 250g de chocolat (noir, lait, blanc ou un mélange)
 * 115g de beurre demi-sel mou
@@ -20,7 +20,7 @@ background-color : red;
 3. Mélanger le beurre et les sucres, jusqu'à obtenir une consistance crémeuse. Ajouter l'oeuf et remuer.
 4. Incorporer la farine et la levure puis mélanger jusqu'à obtenir une pâte souple. Ajouter le café et le chocolat et mélanger.
 5. Avec un grande cuillère, déposer des petits tas de pâte sur la plaque en les espaçant bien et sans les aplatir
-6. Enfourner pour 17 minutes envirion. Les cookies doinvent être juste bond et encore trés souples.
+6. Enfourner pour 17 minutes }. Les cookies doinvent être juste bond et encore trés souples.
 7. Laissez-les tiédir 2 minutes, retirez les de la plaque à l'aide d'une spatule puis laisser refroidir. Faire cuie le restant de la plaque de la même manière.
 
 ________________________________
