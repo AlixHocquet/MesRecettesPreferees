@@ -22,3 +22,10 @@
 7. Déposez la pâte dans le moule.
 8. Enfournez et laissez cuire pendant 30 minutes en couvrant le gâtea avec une feuille d'aluminium en fin de cuisson si la surface brunit trop vite.
 9. Démoulez-le chaud et servez le tiède.
+
+#### Pour plus d'autres recettes:
+* [*Cookies aux pépites de chocolat 🍪*](Cookies aux pépites de chocolat.md)
+* [*Cookies de Neiman Marcus 🍪*](Cookies de Neiman Marcus.md)
+* [*Tarte à la rhubarbe 🥧*](Tarte à la rhubarbe.md)
+* [*Brownie 🍫*](Brownies.md)
+
