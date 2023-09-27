@@ -1,4 +1,5 @@
 # Voici quelques délicieuses recettes faciles à faire
+![image](img/photo.jpeg)
 
 * [Cookies aux pépites de chocolat 🍪](Cookies aux pépites de chocolat.md)
 * [Cookies de Neiman Marcus 🍪](Cookies de Neiman Marcus.md)
