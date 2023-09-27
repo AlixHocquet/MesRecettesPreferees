@@ -1,4 +1,3 @@
-# Cookies de Neiman Marcus
 ![image](img/Cookies 2.jpg)
 
 ## Ingrédients 
