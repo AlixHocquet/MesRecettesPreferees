@@ -1,4 +1,4 @@
-# Voici quelques recettes faciles à faire et délicieuses
+# Voici quelques délicieuses recettes faciles à faire
 
 ![image](img/hq720.jpg)
 
