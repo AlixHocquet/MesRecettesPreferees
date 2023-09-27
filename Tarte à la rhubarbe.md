@@ -18,6 +18,7 @@
 3. Soupoudrer la table de farine et étendre la pâte. Poser-la dans un plat à tarte sur du paier sulfurisé et piquer-la avec un fourchetee.
 4. Poser la rhubarbe dessus. Mélanger les oeufs, la crème et le reste du sucre et verser le tout sur la rhubarbe. Faire cuire la tarte pendant 35min.  
 
+________________________________
 #### Pour plus d'autres recettes: 
 * [*Cookies aux pépites de chocolat 🍪*](Cookies aux pépites de chocolat.md)
 * [*Cookies de Neiman Marcus 🍪*](Cookies de Neiman Marcus.md)
