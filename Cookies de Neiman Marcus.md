@@ -21,6 +21,7 @@
 6. Enfourner pour 17 minutes envirion. Les cookies doinvent être juste bond et encore trés souples.
 7. Laissez-les tiédir 2 minutes, retirez les de la plaque à l'aide d'une spatule puis laisser refroidir. Faire cuie le restant de la plaque de la même manière.
 
+________________________________
 #### Pour plus d'autres recettes: 
 * [*Cookies aux pépites de chocolat 🍪*](Cookies aux pépites de chocolat.md)
 * [*Kouign-Amann 🧈*](Kouign-Amann.md)
