@@ -2,8 +2,6 @@
 ![image](img/Cookies 2.jpg)
 
 ## Ingrédients 
-{ background-color : red;}
-
 ### *Pour 20 cookies*
 * 250g de chocolat (noir, lait, blanc ou un mélange)
 * 115g de beurre demi-sel mou
