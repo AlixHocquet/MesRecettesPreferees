@@ -1,7 +1,7 @@
-## Brownies
+# Brownies
 ![image](img/Brownies.jpg)
 
-### Ingrédients
+## Ingrédients
 * 115g de beurre
 * 30g de cacao en poudre
 * 100g de sucre roux en poudre
@@ -15,7 +15,7 @@
 * une pincé de sel
 * 150g de chocolat
 
-### Préparation 
+## Préparation 
 1. Préchauffer le four à 180°C
 2. Dans un premier bol, mélanger le beurre, le cacao en poudre, le sucre roux, le sucre en poudre, l'éxtrait de vanille, le café et les oeufs.
 3. Dans un deuxième bol, mélanger les farines, la levure et le sel.
