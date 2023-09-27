@@ -1,4 +1,5 @@
 ## Le Kouign-Amann
+![image](img/kouingamann.jpeg)
 
 ### Ingrédients
 #### Pour 6 personnes 
