@@ -20,3 +20,10 @@
 
 ### *Astuce en plus*
 *Il est possible de remplasser les pépites de chocolat par des noix ou des raisins secs, ou même de tout mélanger selon les goûts !*  
+
+#### Pour plus d'autres recettes:
+* [*Cookies de Neiman Marcus 🍪*](Cookies de Neiman Marcus.md)
+* [*Kouign-Amann 🧈*](Kouign-Amann.md)
+* [*Tarte à la rhubarbe 🥧*](Tarte à la rhubarbe.md)
+* [*Brownie 🍫*](Brownies.md)
+
