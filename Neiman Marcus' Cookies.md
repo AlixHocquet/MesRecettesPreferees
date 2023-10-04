@@ -1,30 +1,30 @@
 # Neiman Marcus' Cookies
 ![image](img/Cookies 2.jpg)
 
-## Ingrédients 
-### *Pour 20 cookies*
-* 250g de chocolat (noir, lait, blanc ou un mélange)
-* 115g de beurre demi-sel mou
-* 180g de sucre roux
-* 35g de sucre - 1 oeuf
-* 220g de farine
-* 2 cuillères à café de levure chimique
-* 1 1/2 cuillère à café de café soluble
-
-## Préparation 
-1. Préchauffer le four à 150°C.
-2. Concasser le chocolat au couteau pour obtenir des pépites.
-3. Mélanger le beurre et les sucres, jusqu'à obtenir une consistance crémeuse. Ajouter l'oeuf et remuer.
-4. Incorporer la farine et la levure puis mélanger jusqu'à obtenir une pâte souple. Ajouter le café et le chocolat et mélanger.
-5. Avec un grande cuillère, déposer des petits tas de pâte sur la plaque en les espaçant bien et sans les aplatir
-6. Enfourner pour 17 minutes }. Les cookies doinvent être juste bond et encore trés souples.
-7.  Laissez-les tiédir 2 minutes, retirez les de la plaque à l'aide d'une spatule puis laisser refroidir. Faire cuie le restant de la plaque de la même manière.
+## Ingredients 
+### *For 20 cookies*
+* 250g chocolate (dark, milk, white or a mixture)
+* 115g soft salted butter
+* 180g brown sugar
+* 35g sugar - 1 egg
+* 220g flour
+* 2 teaspoons baking powder
+* 1 1/2 teaspoons instant coffee
+  
+## Preparation 
+1. Preheat the oven to 150°C.
+2. Chop the chocolate with a knife to obtain chocolate chips.
+3. Mix the butter and sugars until a creamy mixture is obtained. Add the egg and stir.
+4. Add the flour and baking powder and mix until the dough is smooth. Add the coffee and chocolate and mix.
+5. Using a large spoon, place small pieces of dough on the baking sheet, spacing them well apart and not flattening them.
+6. Bake for 17 minutes. The cookies should be just golden and still very soft.
+7.  Leave to cool for 2 minutes, remove from the tray with a spatula and leave to rest. Bake the remaining dough in the same way.
 
 ________________________________
-#### Pour plus d'autres recettes: 
-* [*Cookies aux pépites de chocolat 🍪*](Cookies aux pépites de chocolat.md)
-* [*Kouign-Amann 🧈*](Kouign-Amann.md)
-* [*Tarte à la rhubarbe 🥧*](Tarte à la rhubarbe.md)
-* [*Brownie 🍫*](Brownies.md)
+#### For more recipes:  
+* [*Chocolate Chips Cookies 🍪*](Chocolate Chips Cookies.md)
+* [*Kouign-Amann 🧈*](Kouign-Amann Eng.md)
+* [*Rhubarb Pie 🥧*](Tarte à la rhubarbe.md)
+* [*Brownie 🍫*](Brownies Eng.md)
 
-[Home Page](index.md)
+[Home Page](Indexeng.md)
