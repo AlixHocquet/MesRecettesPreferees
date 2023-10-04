@@ -1,24 +1,33 @@
 # Brownies
 ![image](img/Brownies.jpg)
 
-## Ingrédients
-* 115g de beurre
-* 30g de cacao en poudre
-* 100g de sucre roux en poudre
-* 100g de sucre en poudre
-* 1/2 cuillère à café d'extrait de vanille
-* 1 cuillère à café de café
-* 2 oeufs
-* 100g de farine
-* 20g de farine à pain
-* 1/2 cuillère à café de levure
-* une pincé de sel
-* 150g de chocolat
+## Ingredients
+* 115g butter
+* 30g cocoa powder
+* 100g caster sugar
+* 100g caster sugar
+* 1/2 teaspoon vanilla extract
+* 1 teaspoon coffee
+* 2 eggs
+* 100g flour
+* 20g bread flour
+* 1/2 teaspoon yeast
+* pinch of salt
+* 150g chocolate
 
-## Préparation 
-1. Préchauffer le four à 180°C
-2. Dans un premier bol, mélanger le beurre, le cacao en poudre, le sucre roux, le sucre en poudre, l'éxtrait de vanille, le café et les oeufs.
-3. Dans un deuxième bol, mélanger les farines, la levure et le sel.
-4. Ajouter le mélange de deuxième bol au premier. Mélanger délicatement puis ajouter le chocolat. 
-5. Étaler dans un plat et mettre au four pendant 20 à 25min.
+## Preparation 
+1. Preheat oven to 180°C
+2. In a first bowl, mix the butter, cocoa powder, brown sugar, caster sugar, vanilla extract, coffee and eggs.
+3. In a second bowl, mix the flours, baking powder and salt.
+4. Add the mixture from the second bowl to the first. Mix gently then add the chocolate. 
+5. Spread out in a dish and place in the oven for 20 to 25 minutes.
+________________________________
+#### For more recipes:
 
+* [*Chocolate Chips Cookies 🍪*](Chocolate Chips Cookies.md)
+* [*Neiman Marcus' Cookies 🍪*](Neiman Marcus' Cookies.md)
+* [*Kouign-Amann 🧈*](Kouign-Amann Eng.md)
+* [*Rhubarb pie 🥧*](Rhubarb pie.md)
+
+[Home Page](Indexeng.md)
+  
