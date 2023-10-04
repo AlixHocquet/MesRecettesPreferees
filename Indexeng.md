@@ -1,4 +1,4 @@
-# here are some delicious and easy recipe
+# Here are some delicious and easy recipe
 ![image](img/photo.jpeg)
 
 * [Chocolate Chips Cookies 🍪](Chocolate Chips Cookies.md)
