@@ -1,4 +1,4 @@
-# Cookies aux pépites de chocolat
+# Chocolate Chips Cookies
 ![image](img/Cookies maison.jpg)
 
 ## Ingredients 
