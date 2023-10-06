@@ -3,14 +3,14 @@
 
 ## Ingrédients 
 ### *Pour 20 cookies* 
-* 125g de beurre 
-* 3 cuillères à soupe de sucre en poudre 
-* 3 cuillères à soupe de cassonade 
-* 1 oeuf
-* 1 sachet de sucre vanillé 
-* 150g de pépites de chocolat 
-* 1 sachet de levure chimique 
-* 1 pincée de sel
+* 125g de **beurre**
+* 3 cuillères à soupe de **sucre en poudre**
+* 3 cuillères à soupe de **cassonade** 
+* 1 **oeuf**
+* 1 sachet de **sucre vanillé**
+* 150g de **pépites de chocolat** 
+* 1 sachet de **levure chimique** 
+* 1 pincée de **sel**
 
 ## Préparation 
 1. Dans un saladier, mélanger le suce en poudre, la cassonade et le beurre fondu. Puis ajouter le sucre vanillé et l'oeuf. Battre avec un fouet. 
