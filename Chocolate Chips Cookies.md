@@ -3,14 +3,14 @@
 
 ## Ingredients 
 ### *For 20 cookies* 
-* 125g butter
-* 3 tablespoons caster sugar
-* 3 tablespoons brown sugar
-* 1 egg
-* 1 sachet vanilla sugar
-* 150g chocolate chips
-* 1 sachet baking powder
-* 1 pinch salt
+* 125g **butter**
+* 3 tablespoons **caster sugar**
+* 3 tablespoons **brown sugar**
+* 1 **egg**
+* 1 sachet **vanilla sugar**
+* 150g **chocolate chips**
+* 1 sachet **baking powder**
+* 1 pinch **salt**
 
 ## Preparation 
 1. Mix the powdered sugar, brown sugar and melted butter in a bowl. Then add the vanilla sugar and egg. Mix with a whisk.
