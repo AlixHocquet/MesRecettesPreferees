@@ -24,7 +24,7 @@ ________________________________
 #### For more recipes:  
 * [*Chocolate Chips Cookies 🍪*](Chocolate Chips Cookies.md)
 * [*Kouign-Amann 🧈*](Kouign-Amann Eng.md)
-* [*Rhubarb Pie 🥧*](Tarte à la rhubarbe.md)
+* [*Rhubarb pie 🥧*](Rhubarb pie.md)
 * [*Brownie 🍫*](Brownies Eng.md)
 
 [Home Page](Indexeng.md)
