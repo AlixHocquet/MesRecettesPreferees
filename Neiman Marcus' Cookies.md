@@ -3,13 +3,14 @@
 
 ## Ingredients 
 ### *For 20 cookies*
-* 250g chocolate (dark, milk, white or a mixture)
-* 115g soft salted butter
-* 180g brown sugar
-* 35g sugar - 1 egg
-* 220g flour
-* 2 teaspoons baking powder
-* 1 1/2 teaspoons instant coffee
+* 250g **chocolate** (dark, milk, white or a mixture)
+* 115g soft **salted butter**
+* 180g **brown sugar**
+* 35g **sugar**
+* 1 **egg**
+* 220g **flour**
+* 2 teaspoons **baking powder**
+* 1 1/2 teaspoons **instant coffee**
   
 ## Preparation 
 1. Preheat the oven to 150°C.
