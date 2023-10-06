@@ -27,7 +27,7 @@ ________________________________
 #### Pour plus d'autres recettes:
 * [*Chocolate Chips Cookies 🍪*](Chocolate Chips Cookies.md)
 * [*Neiman Marcus' Cookies 🍪*](Neiman Marcus' Cookies.md)
-* [Rhubarb pie 🥧](Rhubarb pie.md)
+* [*Rhubarb pie 🥧*](Rhubarb pie.md)
 * [*Brownie 🍫*](Brownies Eng.md)
 
 [Home Page](Indexeng.md)
