@@ -25,7 +25,7 @@ ________________________________
 #### For more recipes:
 * [*Neiman Marcus' Cookies 🍪*](Neiman Marcus' Cookies.md)
 * [*Kouign-Amann 🧈*](Kouign-Amann Eng.md)
-* [Rhubarb pie 🥧](Rhubarb pie.md)
+* [*Rhubarb pie 🥧*](Rhubarb pie.md)
 * [*Brownie 🍫*](Brownies Eng.md)
 
 [Home Page](Indexeng.md)
