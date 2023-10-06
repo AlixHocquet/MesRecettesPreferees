@@ -3,13 +3,13 @@
 
 ## Ingredients
 ### *For 6 people* 
-* 15g baker's yeast
-* 20cl warm water
-* 200g butter with half a teaspoon of salt
+* 15g **baker's yeast**
+* 20cl **warm water**
+* 200g **butter** with half a teaspoon of **salt**
 * 50g for the tin
-* 300g flour
-* 10g melted butter
-* 200g caster sugar
+* 300g **flour**
+* 10g **melted butter**
+* 200g **caster sugar**
 * 50g for the tin
 
 ## Preparation 
