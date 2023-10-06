@@ -28,5 +28,5 @@ ________________________________
 * [*Tarte à la rhubarbe 🥧*](Tarte à la rhubarbe.md)
 * [*Brownie 🍫*](Brownies.md)
 
-[Home Page](index.md)
+[Page d'accueil](index.md)
 
