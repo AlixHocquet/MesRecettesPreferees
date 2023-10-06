@@ -30,4 +30,4 @@ ________________________________
 
 [Home Page](Indexeng.md)
 
-[Version française](index.md)
+[*Version française*](index.md)
