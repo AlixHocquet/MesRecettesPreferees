@@ -2,20 +2,19 @@
 ![image](img/Brownies.jpg)
 
 ## Ingredients
-* 115g butter
-* 30g cocoa powder
-* 100g caster sugar
-* 100g caster sugar
-* 1/2 teaspoon vanilla extract
-* 1 teaspoon coffee
-* 2 eggs
-* 100g flour
-* 20g bread flour
-* 1/2 teaspoon yeast
-* pinch of salt
-* 150g chocolate
+* 115g **butter**
+* 30g **cocoa powder**
+* 100g **caster sugar**
+* 1/2 teaspoon **vanilla extract**
+* 1 teaspoon **coffee**
+* 2 **eggs**
+* 100g **flour**
+* 20g **bread flour**
+* 1/2 **teaspoon yeast**
+* pinch of **salt**
+* 150g **chocolate**
 
-## Preparation 
+## Preparation
 1. Preheat oven to 180°C
 2. In a first bowl, mix the butter, cocoa powder, brown sugar, caster sugar, vanilla extract, coffee and eggs.
 3. In a second bowl, mix the flours, baking powder and salt.
