@@ -25,4 +25,4 @@ ________________________________
 * [*Kouign-Amann 🧈*](Kouign-Amann.md)
 * [*Brownie 🍫*](Brownies.md)
 
-[Home Page](index.md)
+[Page d'accueil](index.md)
