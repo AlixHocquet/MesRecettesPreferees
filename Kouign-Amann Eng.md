@@ -6,11 +6,9 @@
 * 15g **baker's yeast**
 * 20cl **warm water**
 * 200g **butter** with half a teaspoon of **salt**
-* 50g for the tin
 * 300g **flour**
 * 10g **melted butter**
 * 200g **caster sugar**
-* 50g for the tin
 
 ## Preparation 
 1. Dissolve the yeast in 20cl of lukewarm water. Leave the butter to soften at room temperature.
