@@ -3,13 +3,14 @@
 
 ## Ingrédients 
 ### *Pour 20 cookies*
-* 250g de chocolat (noir, lait, blanc ou un mélange)
-* 115g de beurre demi-sel mou
-* 180g de sucre roux
-* 35g de sucre - 1 oeuf
-* 220g de farine
-* 2 cuillères à café de levure chimique
-* 1 1/2 cuillère à café de café soluble
+* 250g de **chocolat** (noir, lait, blanc ou un mélange)
+* 115g de **beurre demi-sel mou**
+* 180g de **sucre roux**
+* 35g de **sucre**
+* 1 **oeuf**
+* 220g de **farine**
+* 2 cuillères à **café de levure chimique**
+* 1 1/2 cuillère à **café de café soluble**
 
 ## Préparation 
 1. Préchauffer le four à 150°C.
