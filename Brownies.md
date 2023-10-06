@@ -2,18 +2,18 @@
 ![image](img/Brownies.jpg)
 
 ## Ingrédients
-* 115g de beurre
-* 30g de cacao en poudre
-* 100g de sucre roux en poudre
-* 100g de sucre en poudre
-* 1/2 cuillère à café d'extrait de vanille
-* 1 cuillère à café de café
-* 2 oeufs
-* 100g de farine
-* 20g de farine à pain
-* 1/2 cuillère à café de levure
-* une pincé de sel
-* 150g de chocolat
+* 115g de **beurre**
+* 30g de **cacao en poudre**
+* 100g de **sucre roux en poudre**
+* 100g de **sucre en poudre**
+* 1/2 cuillère à café **d'extrait de vanille**
+* 1 cuillère à café de **café**
+* 2 **oeufs**
+* 100g de **farine**
+* 20g de **farine à pain**
+* 1/2 cuillère à café de **levure**
+* une pincé de **sel**
+* 150g de **chocolat**
 
 ## Préparation 
 1. Préchauffer le four à 180°C
