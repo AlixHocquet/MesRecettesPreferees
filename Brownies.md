@@ -30,5 +30,5 @@ ________________________________
 * [*Kouign-Amann 🧈*](Kouign-Amann.md)
 * [*Tarte à la rhubarbe 🥧*](Tarte à la rhubarbe.md)
 
-[Home Page](index.md)
+[Page d'accueil](index.md)
   
