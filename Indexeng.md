@@ -1,5 +1,5 @@
 # Here are some delicious and easy recipe
-[Version française](index.md)
+[*Version française*](index.md)
 ![image](img/photo.jpeg)
 
 * [Chocolate Chips Cookies 🍪](Chocolate Chips Cookies.md)
