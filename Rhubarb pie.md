@@ -3,14 +3,14 @@
 
 ## Ingredients
 ### *Pour 6 people* 
-* 5 branches of rhubarb
-* 200g flour
-* 8 tablespoons sugar
-* 6 knobs of butter
-* 2 tablespoons oil
-* 1 small pot of crème fraiche
-* 2 eggs
-* and water
+* 5 branches of **rhubarb**
+* 200g **flour**
+* 8 tablespoons **sugar**
+* 6 knobs of **butter**
+* 2 tablespoons **oil**
+* 1 small pot of **crème fraiche**
+* 2 **eggs**
+* and **water**
   
 ## Preparation 
 1. Turn the oven on to 200°C (th. 6) Wash the rhubarb, remove the two ends of each branch and cut into pieces about 1cm long. 
