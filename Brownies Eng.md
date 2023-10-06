@@ -27,7 +27,7 @@ ________________________________
 * [*Chocolate Chips Cookies 🍪*](Chocolate Chips Cookies.md)
 * [*Neiman Marcus' Cookies 🍪*](Neiman Marcus' Cookies.md)
 * [*Kouign-Amann 🧈*](Kouign-Amann Eng.md)
-* [*Rhubarb pie 🥧*](Rhubarb pie.md)
+* [Rhubarb pie 🥧](Rhubarb pie.md)
 
 [Home Page](Indexeng.md)
   
