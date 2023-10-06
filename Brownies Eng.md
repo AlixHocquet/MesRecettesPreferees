@@ -5,12 +5,13 @@
 * 115g **butter**
 * 30g **cocoa powder**
 * 100g **caster sugar**
+* 100g **caster brown sugar**
 * 1/2 teaspoon **vanilla extract**
 * 1 teaspoon **coffee**
 * 2 **eggs**
 * 100g **flour**
 * 20g **bread flour**
-* 1/2 **teaspoon yeast**
+* 1/2 teaspoon **yeast**
 * pinch of **salt**
 * 150g **chocolate**
 
