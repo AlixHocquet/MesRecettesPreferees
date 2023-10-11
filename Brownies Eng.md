@@ -16,7 +16,7 @@
 * 150g **chocolate**
 
 ## Preparation
-1. Preheat oven to 180°C
+1. Preheat oven to 180°C.
 2. In a first bowl, mix the butter, cocoa powder, brown sugar, caster sugar, vanilla extract, coffee and eggs.
 3. In a second bowl, mix the flours, baking powder and salt.
 4. Add the mixture from the second bowl to the first. Mix gently then add the chocolate. 
