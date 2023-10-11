@@ -15,11 +15,11 @@
 ## Préparation 
 1. Préchauffer le four à 150°C.
 2. Concasser le chocolat au couteau pour obtenir des pépites.
-3. Mélanger le beurre et les sucres, jusqu'à obtenir une consistance crémeuse. Ajouter l'oeuf et remuer.
+3. Mélanger le beurre et les sucres, jusqu'à obtenir une consistance crémeuse. Ajouter l'œuf  et remuer.
 4. Incorporer la farine et la levure puis mélanger jusqu'à obtenir une pâte souple. Ajouter le café et le chocolat et mélanger.
-5. Avec un grande cuillère, déposer des petits tas de pâte sur la plaque en les espaçant bien et sans les aplatir
-6. Enfourner pour 17 minutes. Les cookies doivent être juste blond et encore trés souples.
-7. Laissez-les tiédir 2 minutes, retirez les de la plaque à l'aide d'une spatule puis laisser refroidir. Faire cuie le restant de la plaque de la même manière.
+5. Avec une grande cuillère, déposer des petits tas de pâte sur la plaque en les espaçant bien et sans les aplatir
+6. Enfourner pour 17 minutes. Les cookies doivent être juste blonds et encore très souples.
+7. Laissez-les tiédir 2 minutes, retirez les de la plaque à l'aide d'une spatule puis laisser refroidir. Faire cuire le restant de la plaque de la même manière.
 
 ________________________________
 #### Pour plus d'autres recettes: 
