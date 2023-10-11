@@ -19,7 +19,7 @@
 1. Bake in a hot oven (200°C, gas mark 6) for 9 minutes. Once cooked, remove from the oven and leave to cool. Enjoy!
 
 ### *Extra tips*
-*You can replace the chocolate chips with nuts or raisins, or even mix them all together to suit your taste!*  
+*You can replace the chocolate chips with nuts or raisins or even mix them all together to suit your taste!*  
 
 ________________________________
 #### For more recipes:
