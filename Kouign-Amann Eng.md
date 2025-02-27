@@ -1,4 +1,5 @@
 # Kouign-Amann
+[🇫🇷](Kouign-Amann.md)
 ![image](img/kouingamann.jpeg)
 
 ## Ingredients
