@@ -1,4 +1,5 @@
 # Brownies
+[🇬🇧](Brownies Eng.md)
 ![image](img/Brownies.jpg)
 
 ## Ingrédients
@@ -30,7 +31,4 @@ ________________________________
 * [*Kouign-Amann 🧈*](Kouign-Amann.md)
 * [*Tarte à la rhubarbe 🥧*](Tarte à la rhubarbe.md)
 
-[Page d'accueil](index.md)
-
-[*English Version*](Indexeng.md)
-  
+[Page d'accueil](index.md)  
