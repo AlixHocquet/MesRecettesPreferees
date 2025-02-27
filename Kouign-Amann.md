@@ -1,4 +1,5 @@
 # Le Kouign-Amann
+[🇬🇧](Kouign-Amann Eng.md)
 ![image](img/kouingamann.jpeg)
 
 ## Ingrédients
@@ -29,5 +30,3 @@ ________________________________
 * [*Brownie 🍫*](Brownies.md)
 
 [Page d'accueil](index.md)
-
-[*English Version*](Indexeng.md)
