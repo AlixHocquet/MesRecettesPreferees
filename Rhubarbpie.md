@@ -1,4 +1,5 @@
 # Rhubarb pie
+[🇫🇷](Tarteàlarhubarbe.md)
 ![image](img/Tarterhubarbe.jpeg)
 
 ## Ingredients
@@ -26,5 +27,3 @@ ________________________________
 * [*Brownie 🍫*](Brownies Eng.md)
 
 [Home Page](Indexeng.md)
-
-[*Version française*](index.md)
