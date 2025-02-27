@@ -1,5 +1,4 @@
-# La tarte à la rhubarbe
-[🇬🇧](Rhubarb pie.md)
+# La tarte à la rhubarbe [🇬🇧](Rhubarb pie.md)
 ![image](img/Tarterhubarbe.jpeg)
 
 ## Ingrédients
