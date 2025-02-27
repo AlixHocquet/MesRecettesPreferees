@@ -1,4 +1,5 @@
 # Neiman Marcus' Cookies
+[🇫🇷](Cookies de Neiman Marcus.md)
 ![image](img/Cookies 2.jpg)
 
 ## Ingredients 
@@ -29,5 +30,3 @@ ________________________________
 * [*Brownie 🍫*](Brownies Eng.md)
 
 [Home Page](Indexeng.md)
-
-[*Version française*](index.md)
