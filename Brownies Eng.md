@@ -1,4 +1,5 @@
 # Brownies
+[🇫🇷](Brownies.md)
 ![image](img/Brownies.jpg)
 
 ## Ingredients
@@ -30,6 +31,4 @@ ________________________________
 * [*Rhubarb pie 🥧*](Rhubarb pie.md)
 
 [Home Page](Indexeng.md)
-
-[*Version française*](index.md)
   
