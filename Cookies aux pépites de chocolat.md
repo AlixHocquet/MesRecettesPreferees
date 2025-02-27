@@ -1,4 +1,5 @@
 # Cookies aux pépites de chocolat
+[🇬🇧](Chocolate Chips Cookies.md)
 ![image](img/Cookies maison.jpg)
 
 ## Ingrédients 
@@ -29,6 +30,4 @@ ________________________________
 * [*Brownie 🍫*](Brownies.md)
 
 [Page d'accueil](index.md)
-
-[*English Version*](Indexeng.md)
 
