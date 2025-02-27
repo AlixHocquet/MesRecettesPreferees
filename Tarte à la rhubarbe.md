@@ -1,4 +1,5 @@
 # La tarte à la rhubarbe
+[🇬🇧](Rhubarbpie.md)
 ![image](img/Tarterhubarbe.jpeg)
 
 ## Ingrédients
@@ -26,5 +27,3 @@ ________________________________
 * [*Brownie 🍫*](Brownies.md)
 
 [Page d'accueil](index.md)
-
-[*English Version*](Indexeng.md)
