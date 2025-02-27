@@ -1,5 +1,5 @@
 # Voici quelques délicieuses recettes faciles à faire
-[*English Version*](Indexeng.md)
+[🇬🇧](Indexeng.md)
 ![image](img/photo.jpeg)
 
 * [Cookies aux pépites de chocolat 🍪](Cookies aux pépites de chocolat.md)
